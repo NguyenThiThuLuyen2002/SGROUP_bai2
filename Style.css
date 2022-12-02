@@ -1,0 +1,73 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+.nav {
+    display:flex;
+    justify-content: space-between;
+    background-color: bisque;
+}
+.name_ower {
+    display: flex;
+}
+.name {
+    margin-top: 20px;
+    
+    margin-bottom: 10px;
+}
+.letter_J {
+    
+    background-color:#063970 ;
+    border-radius: 5px;
+    font-size: 30px;
+    color: white;
+    padding: 10px 25px;
+
+
+    
+}
+
+.iconheader {
+    list-style-type: none;
+    display: flex;
+}
+.iconhd {
+    margin: 5px;
+    color: orange;
+}
+.imganddetail {
+    display: flex;
+    justify-content: space-between;
+}
+.imguser {
+    width: 400px;
+    height: 550px;
+    
+}
+.detail {
+    margin-left: 20px;
+}
+.btndownloadresume {
+    border: solid 1px;
+    border-color: red;
+    border-radius: 10%;
+    width: 200px;
+    height: 100;
+    color: red;
+    text-align: center;
+    margin: auto;
+
+}
+.ex {
+    display: flex;
+    list-style-type: none;
+
+}
+.ex_li {
+    margin: 20px;
+    display: block;
+}
+
+
+
+
